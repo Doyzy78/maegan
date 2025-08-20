@@ -1,4 +1,4 @@
-const appData = [
+/*const appData = [
   {
     id: "GG TOOLS",
     name: "GG TOOLS Pro",
@@ -16,3 +16,4 @@ const appData = [
     ]
   }
 ];
+*/
